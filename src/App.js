@@ -32,7 +32,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          
         </a>
         <Input id="sampleText" text="這是一個input" value={text} onChangeHandler={onChangeHandler}></Input>
         {text}
